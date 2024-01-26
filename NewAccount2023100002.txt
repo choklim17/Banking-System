@@ -1,0 +1,14 @@
+Username: Christopher
+Password: password
+Pin Code: 1234
+First Name: Christopher
+Middle Name: Angelo
+Last Name: Lim
+Birthdate: Nov25
+Gender: Male
+Address: Manila
+Fathers Name: Mike
+Mothers Name: Gina
+Contact Number: 123456789
+Account Balance: 500.0
+Account Number: 2023100002

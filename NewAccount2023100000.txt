@@ -1,0 +1,14 @@
+Username: ChokLim
+Password: choklim17
+Pin Code: 1125
+First Name: Chok
+Middle Name: Angelo
+Last Name: Lim
+Birthdate: 112596
+Gender: Male
+Address: San Juan City
+Fathers Name: Chok
+Mothers Name: Chok
+Contact Number: 63123456789
+Account Balance: 1000.0
+Account Number: 2023100000

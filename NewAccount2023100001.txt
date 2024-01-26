@@ -1,0 +1,14 @@
+Username: MScott
+Password: michaelscott
+Pin Code: 1234
+First Name: Michael
+Middle Name: Gary
+Last Name: Scott
+Birthdate: March 15, 1965
+Gender: Male
+Address: Scranton
+Fathers Name: Unknown
+Mothers Name: Unknown
+Contact Number: 123456789
+Account Balance: 1999.0
+Account Number: 2023100001
